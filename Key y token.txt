@@ -1,0 +1,8 @@
+deepseek_client = OpenAI(
+    api_key="sk-dba9089c512942f0ac36776c3385d2e6",  # 🔐 Coloca aquí tu API Key
+    base_url="https://api.deepseek.com"
+
+
+Telegram
+    token = '8156362888:AAHtVnRKQrhTS1sF42uwQ6Wd9QPs6odLICw'  # Reemplaza con tu token real
+  
